@@ -1,6 +1,6 @@
 # Vehicle-Rental
 This is a Java program that simulates a bus rental application. It allows users to perform various actions such as adding customers, adding buses, renting buses, and displaying information.
-
+-The project developed for the University of Jeddah OOR (Object-Oriented Programming) course.
 
 
 #Code Overview
